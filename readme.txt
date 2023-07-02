@@ -1,0 +1,1 @@
+This is a sample text that goes in the readme.txt file.
